@@ -1,4 +1,4 @@
-# duiz_app
+# quiz_app
 
 A new Flutter application.
 
